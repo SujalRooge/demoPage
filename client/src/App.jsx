@@ -3,7 +3,7 @@ import './App.css'
 const App = () => {
   return (
     <div>
-      This is the Webpage of Sujal
+      This is the Webpage of Sujal Rooge
     </div>
   )
 }
